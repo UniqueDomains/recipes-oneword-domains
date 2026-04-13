@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .recipes one-word domains from Uni
 
 **Public extract:** 9,411 rows · **Live catalog:** 9,411 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/recipes`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| alpha.recipes    | available | $11.99    | $103.99       | 90             | 54     | 5      | name.com                                                  |
+| alpha.recipes    | available | $11.99    | $103.99       | 90             | 53     | 5      | name.com                                                  |
 | code.recipes     | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc                                               |
 | live.recipes     | premium   | $500      | $500          | 108            | 56     | 4      | name.com                                                  |
 | true.recipes     | available | $11.99    | $103.99       | 86             | 52     | 4      | name.com                                                  |
@@ -72,12 +72,12 @@ print(df.head())
 | travel.recipes   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | trade.recipes    | available | $95.98    | —             | 116            | 46     | 5      | namecheap                                                 |
 | free.recipes     | resell    | —         | —             | 88             | 59     | 4      | GoDaddy.com, LLC                                          |
-| green.recipes    | premium   | $85.80    | $85.80        | 108            | 45     | 5      | namecheap                                                 |
+| green.recipes    | premium   | $85.80    | $85.80        | 108            | 44     | 5      | namecheap                                                 |
 | star.recipes     | available | $11.99    | $103.99       | 86             | 46     | 4      | name.com                                                  |
-| better.recipes   | resell    | —         | —             | 110            | 56     | 6      | GoDaddy Online Services Cayman Islands Ltd.               |
+| future.recipes   | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc                                               |
 | review.recipes   | premium   | $520      | $520          | 94             | 39     | 6      | namecheap                                                 |
 | genius.recipes   | available | $11.99    | $103.99       | 98             | 45     | 6      | name.com                                                  |
-| future.recipes   | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc                                               |
+| better.recipes   | resell    | —         | —             | 110            | 54     | 6      | GoDaddy Online Services Cayman Islands Ltd.               |
 | cool.recipes     | premium   | $500      | $500          | 76             | 38     | 4      | name.com                                                  |
 | creative.recipes | available | $11.99    | $103.99       | 92             | 45     | 8      | name.com                                                  |
 | bot.recipes      | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 33                                         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
