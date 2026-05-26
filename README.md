@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .recipes one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $19.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/recipes`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | gods.recipes        | available | $11.99    | —             | 72             | 27     | 4      | name.com         |
 | trades.recipes      | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
 | traders.recipes     | available | $11.99    | —             | 60             | 26     | 7      | name.com         |
-| destination.recipes | available | $11.99    | —             | 90             | 25     | 11     | name.com         |
+| destination.recipes | available | $11.99    | —             | 90             | 24     | 11     | name.com         |
 | Trex.recipes        | available | $95.98    | —             | 80             | 24     | 5      | namecheap        |
 | pops.recipes        | available | $11.99    | —             | 74             | 24     | 4      | name.com         |
 | shops.recipes       | available | $11.99    | —             | 64             | 24     | 5      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
