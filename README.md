@@ -70,20 +70,20 @@ print(df.head())
 | justin.recipes      | available | $11.99    | —             | 58             | 38     | 7      | name.com         |
 | tickets.recipes     | available | $11.99    | —             | 64             | 34     | 7      | name.com         |
 | payments.recipes    | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
+| gods.recipes        | available | $11.99    | —             | 72             | 29     | 4      | name.com         |
 | quotes.recipes      | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
 | Jim.recipes         | available | $95.98    | —             | 78             | 28     | 3      | namecheap        |
 | gems.recipes        | available | $11.99    | —             | 70             | 28     | 4      | name.com         |
 | forms.recipes       | available | $11.99    | —             | 54             | 28     | 5      | name.com         |
-| gods.recipes        | available | $11.99    | —             | 72             | 27     | 4      | name.com         |
 | trades.recipes      | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
-| traders.recipes     | available | $11.99    | —             | 60             | 26     | 7      | name.com         |
+| traders.recipes     | available | $11.99    | —             | 60             | 25     | 7      | name.com         |
 | destination.recipes | available | $11.99    | —             | 90             | 24     | 11     | name.com         |
 | Trex.recipes        | available | $95.98    | —             | 80             | 24     | 5      | namecheap        |
 | pops.recipes        | available | $11.99    | —             | 74             | 24     | 4      | name.com         |
+| inhouse.recipes     | available | $11.99    | —             | 70             | 24     | 8      | name.com         |
 | shops.recipes       | available | $11.99    | —             | 64             | 24     | 5      | name.com         |
 | toys.recipes        | available | $11.99    | —             | 60             | 24     | 4      | name.com         |
 | loans.recipes       | available | $11.99    | —             | 58             | 24     | 5      | name.com         |
-| girls.recipes       | available | $11.99    | —             | 83             | 23     | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
