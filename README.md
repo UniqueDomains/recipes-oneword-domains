@@ -1,10 +1,10 @@
-# Available .RECIPES One-Word Domains (12,365)
+# Available .RECIPES One-Word Domains (12,366)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C365%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C366%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .recipes one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,365 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,366 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $19.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,366 domains · **Median ask:** $15.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/recipes`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/recipes`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RECIPES one-word doma
 
 ### Files
 
-- `recipes.csv` — public CSV extract (1,000 rows)
-- `recipes.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `recipes.csv`, public CSV extract (1,000 rows)
+- `recipes.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| coins.recipes       | available | $11.99    | —             | 56             | 41     | 5      | name.com         |
-| CincodeMayo.recipes | resell    | —         | —             | 68             | 7      | 13     | GoDaddy.com, LLC |
-| jobs.recipes        | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
-| justin.recipes      | available | $11.99    | —             | 58             | 38     | 7      | name.com         |
-| tickets.recipes     | available | $11.99    | —             | 64             | 34     | 7      | name.com         |
-| payments.recipes    | available | $11.99    | —             | 58             | 33     | 8      | name.com         |
-| gods.recipes        | available | $11.99    | —             | 72             | 29     | 4      | name.com         |
-| quotes.recipes      | available | $11.99    | —             | 58             | 29     | 6      | name.com         |
-| Jim.recipes         | available | $95.98    | —             | 78             | 28     | 3      | namecheap        |
-| gems.recipes        | available | $11.99    | —             | 70             | 28     | 4      | name.com         |
-| forms.recipes       | available | $11.99    | —             | 54             | 28     | 5      | name.com         |
-| trades.recipes      | available | $11.99    | —             | 71             | 26     | 6      | name.com         |
-| traders.recipes     | available | $11.99    | —             | 60             | 25     | 7      | name.com         |
-| destination.recipes | available | $11.99    | —             | 90             | 24     | 11     | name.com         |
-| Trex.recipes        | available | $95.98    | —             | 80             | 24     | 5      | namecheap        |
-| pops.recipes        | available | $11.99    | —             | 74             | 24     | 4      | name.com         |
-| inhouse.recipes     | available | $11.99    | —             | 70             | 24     | 8      | name.com         |
-| shops.recipes       | available | $11.99    | —             | 64             | 24     | 5      | name.com         |
-| toys.recipes        | available | $11.99    | —             | 60             | 24     | 4      | name.com         |
-| loans.recipes       | available | $11.99    | —             | 58             | 24     | 5      | name.com         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| age.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
+| mail.recipes     | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc                     |
+| lp.recipes       | premium   | $500      | —             | medium         | low    | 3      | name.com                                    |
+| aid.recipes      | available | $11.99    | —             | medium         | low    | 3      | name.com                                    |
+| salad.recipes    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                 |
+| asia.recipes     | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
+| ben.recipes      | available | $11.99    | —             | high           | medium | 3      | name.com                                    |
+| thank.recipes    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                             |
+| punch.recipes    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                    |
+| boo.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
+| country.recipes  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                             |
+| three.recipes    | premium   | $11.99    | $103.99       | high           | low    | 5      | name.com                                    |
+| bow.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
+| cocktail.recipes | resell    | —         | —             | high           | low    | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| ethnic.recipes   | premium   | $500      | —             | high           | low    | 6      | name.com                                    |
+| bra.recipes      | available | $11.99    | —             | medium         | low    | 3      | name.com                                    |
+| learning.recipes | resell    | —         | —             | high           | low    | 8      | Dynadot Inc                                 |
+| travel.recipes   | premium   | $520      | $520          | high           | medium | 6      | namecheap                                   |
+| but.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
+| unique.recipes   | premium   | $500      | —             | high           | medium | 6      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,365 live domains                        |
+| 1,000-row public sample | 12,366 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .recipes domains, which makes the extension the main context signal. That favors words that feel natural around food, cooking, ingredients, menus, or kitchen utility, and makes off-theme words harder to justify. Examples such as advisor.recipes, impulse.recipes, invent.recipes, cipher.recipes, and reliable.recipes show the range: some are descriptive, some abstract, and some may feel mismatched with the extension. For founders, the best options are memorable and easy to explain aloud. For investors, the key test is whether the word and the .recipes ending create a clear resale story at a low carrying cost. Avoid names with obvious trademark exposure, including terms like reebok.recipes.
+This selection covers 12,366 one-word .recipes domain names, with a median ask of $15.68. Each name pairs a short, food-related word — from flaxseed.recipes to roastbeef.recipes — with a TLD built for cooking and lifestyle content. Whether you're comparing entry pricing and renewal costs or shortlisting a brandable name for a new food site, this list stays focused on single-word .recipes options only. Updated daily to reflect current listings.
 
-- Favor words that make immediate sense with .recipes
-- Use the 19.38 median ask as a rough price anchor
-- Check trademark exposure before judging brandability
-- Prioritize clear spelling and spoken recall
+- 12,366 one-word .recipes names in this selection, updated daily
+- Median ask of $15.68 makes early entry low-cost
+- Names like flaxseed.recipes and roastbeef.recipes show food-first branding
+- Compare renewal cost and brandability before committing to a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
