@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .recipes one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,222 domains · **Median ask:** $9.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/recipes`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| come.recipes     | available | $11.99    | —             | high           | low    | 4      | name.com                                    |
-| action.recipes   | available | $11.99    | —             | high           | medium | 6      | name.com                                    |
-| bang.recipes     | available | $11.99    | —             | high           | low    | 4      | name.com                                    |
-| present.recipes  | available | $11.99    | —             | high           | low    | 7      | name.com                                    |
-| heavy.recipes    | available | $11.99    | —             | high           | low    | 5      | name.com                                    |
 | age.recipes      | available | $5.48     | $95.98        | medium         | low    | 3      | namecheap                                   |
-| mail.recipes     | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc                     |
+| mail.recipes     | resell    | —         | —             | medium         | low    | 4      | Unstoppable Domains Inc                     |
 | lp.recipes       | premium   | $500      | —             | medium         | low    | 3      | name.com                                    |
 | aid.recipes      | available | $11.99    | —             | medium         | low    | 3      | name.com                                    |
-| salad.recipes    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                 |
+| country.recipes  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                             |
 | asia.recipes     | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
 | aug.recipes      | available | $5.48     | $95.98        | low            | low    | 3      | namecheap                                   |
-| thank.recipes    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                             |
+| cocktail.recipes | resell    | —         | —             | high           | low    | 8      | GoDaddy Online Services Cayman Islands Ltd. |
 | punch.recipes    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                    |
 | ben.recipes      | available | $11.99    | —             | high           | medium | 3      | name.com                                    |
-| country.recipes  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                             |
 | three.recipes    | premium   | $11.99    | $103.99       | high           | low    | 5      | name.com                                    |
 | boo.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
-| cocktail.recipes | resell    | —         | —             | high           | low    | 8      | GoDaddy Online Services Cayman Islands Ltd. |
 | ethnic.recipes   | premium   | $500      | —             | high           | low    | 6      | name.com                                    |
+| bow.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
+| travel.recipes   | premium   | $520      | $520          | high           | medium | 6      | namecheap                                   |
+| bra.recipes      | available | $11.99    | —             | medium         | low    | 3      | name.com                                    |
+| unique.recipes   | premium   | $500      | —             | high           | medium | 6      | name.com                                    |
+| bum.recipes      | available | $5.48     | $95.98        | low            | low    | 3      | namecheap                                   |
+| fitness.recipes  | premium   | $85.80    | $85.80        | high           | low    | 7      | namecheap                                   |
+| but.recipes      | available | $11.99    | —             | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RECIPES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
